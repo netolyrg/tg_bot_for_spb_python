@@ -1,5 +1,5 @@
 # Simple telegram bot
-Example for SPb Python meetup.
+Example for SPb Python meetup 23.09.24.
 
 ## Installation
 
